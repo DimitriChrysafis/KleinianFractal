@@ -1,4 +1,3 @@
-# https://dimitrichrysafis.github.io/#post/post6.md
 # I RECCOMEND YOU RUN IT LOCALLY
 
 
