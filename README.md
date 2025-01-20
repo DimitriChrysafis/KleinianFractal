@@ -1,5 +1,5 @@
-# KleinianFractal
-A Kleinian Fractal
+# https://dimitrichrysafis.github.io/#post/post6.md
+# GIVE THE VIDEO A SECOND TO LOAD-- I RECCOMEND YOU RUN IT LOCALLY
 
 
 https://github.com/user-attachments/assets/3afc6f6c-ad33-4691-897b-e2739c97cb3a
