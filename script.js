@@ -64,7 +64,6 @@ async function init() {
         gl.clearColor(0, 0, 0, 1);
         gl.clear(gl.COLOR_BUFFER_BIT);
 
-        // Update zoom and pan using interpolation
         settings.zoom += (settings.targetZoom - settings.zoom) * settings.zoomSpeed;
         settings.pan.x += (settings.targetPan.x - settings.pan.x) * settings.panSpeed;
         settings.pan.y += (settings.targetPan.y - settings.pan.y) * settings.panSpeed;
